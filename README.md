@@ -1,4 +1,4 @@
-# FFCS VITB Maker
+# FFCS Time Table Maker
 
 FFCS Time Table Maker is a web-based timetable creation tool designed to help students at VIT create their personalized timetable using the FFCS (Fully Flexible Credit System). The tool allows users to select subjects, assign time slots, and visualize their timetable with ease.
 
